@@ -49,6 +49,20 @@ h1, h2, h3, h4, h5, h6, figure {
 .common{
   margin: 0 0 10px 0;
 }
+
+#logo{
+    float: left;
+    margin-bottom: -30px;
+    margin-top: -25px;
+    }
+#logo_text{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+#nav{
+  vertical-align:bottom;
+}
 ::-webkit-selection {
   color: #fff;
   background: #1FB57B;
