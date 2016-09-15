@@ -46,7 +46,9 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0 0 30px 0;
   letter-spacing: 1px;
 }
-
+.common{
+  margin: 0 0 10px 0;
+}
 ::-webkit-selection {
   color: #fff;
   background: #1FB57B;
@@ -625,7 +627,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   padding-top: 130px;
-  content: '\e005';
+  /*content: '\e005';*/
   background: rgba(0, 0, 0, 0.5);
   opacity: 0;
   color: #fff;
